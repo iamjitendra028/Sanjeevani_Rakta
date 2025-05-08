@@ -131,7 +131,7 @@ try {
 <body>
     <header>
         <div class="logo-container">
-            <img src="assets/images/logo.png" alt="Blood Bank Logo" class="logo">
+            <img src="assets/images/icon/logo.png" alt="Blood Bank Logo" class="logo">
             <h1><i class="fas fa-database"></i> Database Setup</h1>
         </div>
         <nav>
